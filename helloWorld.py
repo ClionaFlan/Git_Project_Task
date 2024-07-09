@@ -1,1 +1,1 @@
-input = input(input something:), print(input)
+age = input(Enter your age), print(age)
