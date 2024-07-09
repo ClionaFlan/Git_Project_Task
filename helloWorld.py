@@ -1,1 +1,1 @@
-print(Git is awesome)
+input = input(input something:), print(input)
